@@ -1,0 +1,15 @@
+{
+  "name": "todo",
+  "version": "0.1.0",
+  "spm": {
+    "output": [
+      "index.css",
+      "index.js"
+    ],
+    "buildArgs": "--include standalone",
+    "dependencies": {
+      "jquery": "1.7.2",
+      "normalize.css": "3.0.1"
+    }
+  }
+}
