@@ -1,4 +1,2 @@
 var $ = require('jquery');
-
-$('#content').html('index.js@jquery');
-
+$('body').append('<div>Hello World!</div>');
